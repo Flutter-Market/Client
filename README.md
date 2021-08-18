@@ -1,4 +1,4 @@
-# Seller
+# Client
 
 ### Flutter-Market 를 완성한 사람들🤗
 >#### Client part🧑🏻‍💼
